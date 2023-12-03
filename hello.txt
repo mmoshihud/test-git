@@ -1,2 +1,4 @@
 This is first commit
 Now new commit
+new feature 1 adding
+# the new feature is good
