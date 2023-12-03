@@ -1,2 +1,5 @@
 This is first commit
 Now new commit
+feature 2 is adding
+# this is best feature available
+# user in satisfied
